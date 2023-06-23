@@ -460,6 +460,27 @@ footer {
 }
 
 /*
+    ---------------------------
+    ----- 5. Piblicatoins Styles -----
+    ---------------------------
+*/
+
+#publications {
+    padding: 75px 15px;
+    border-bottom: 1px solid $border;
+
+    h2 {
+        color: $heading;
+    }
+
+    p {
+        color: $text;
+        margin: 0;
+    }
+}
+
+
+/*
     --------------------------------
     ----- 6. Experience Styles -----
     --------------------------------
@@ -786,6 +807,26 @@ footer {
         }
     }
 }
+
+/*
+       Added this
+*/
+.mb-1 {
+    font-family: "Consolas";
+    font-weight: 400;
+    color: #5a6067;
+    font-size: 15px;
+    line-height: 1.7;
+}
+
+.paper-h{
+    font-family: "Consolas";
+    font-weight: 700;
+    color: #33373b;
+}
+
+
+
 
 /*
     ---------------------------------------
