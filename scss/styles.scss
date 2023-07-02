@@ -34,8 +34,8 @@
 */
 
 // Define base and accent colors
-$base-color: #f0a274;
-$base-color-hover: darken($base-color, 10%);
+$base-color: #1e272f;
+$base-color-hover: darken($base-color, 30%);
 
 // Define background colors
 $background: #fff;
@@ -348,7 +348,7 @@ footer {
 #lead {
     position: relative;
     height: 100vh;
-    min-height: 400px;
+    min-height: 500px;
     max-height: 400px;
     background: url(../images/lead-bg.jpg);
     background-size: cover;
